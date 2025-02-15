@@ -11,7 +11,9 @@ The dataset contains information about Olympic athletes and events, including:
 - Medal information
 
 ## Requirements
-
+1. Put athlete_events.csv and noc_regions.csv files in same folder.
+2. get above files from KarachiAI google drive shared in google classroom.
+3. contact [Safeer Abbas] in any issue.
 ### Dependencies
 ```
 python
